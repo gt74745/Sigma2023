@@ -13,7 +13,6 @@ TeamCode Packages
 | hardware| Contains a Hardware class for initializing hardware.|
 | localization| Contains all code that relates to the vision and encoder based localization algorithms. These classes are split seperately into an Encoder class and a Vision class. They are unified under the primary Localization class. |
 | waypoint|Contains a navigation and waypoint class. Waypoints are added to allow the robot to complete a multi-step movement around the field, as well as accessing actions to perform game tasks in between each waypoint. |
-
 | TeamCode| Contains non-autonomous related code (i.e. drive code) |
 | --|--|
 |core.java |Contains base level teleop code for driving as well as hardware initialization for driver control.|
